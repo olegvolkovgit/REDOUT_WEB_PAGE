@@ -1,0 +1,70 @@
+body
+{
+	margin: 0;
+	background: black;
+}
+a
+{
+	display: block;
+	margin: 3px;
+	font-family: calibri;
+}
+label
+{
+	display:block;
+	color: #3b5998;
+    background-color: #3b5998;
+    border-color: #2e6da4;
+    border-radius: 10px;
+    border-width:3px;
+    border:0;
+    margin: 5px;
+}
+header
+{
+	position:fixed;
+	width:100%;
+	height:42px ;
+	border:0;
+	background-color: #FFFFFF;
+	opacity: 0.7;
+}
+.logo
+{
+	margin-left:10px;
+	margin-right:75px;
+	width:300px;
+}
+.logoContainer
+{
+	margin-top:150px;
+	display:inline-block;
+	border-right: 2px #FFFF00 double;
+}
+.links
+{
+	display: inline-block;
+}
+
+.credo
+{
+	margin-left: 5px;
+    font-size: 35px;
+    position: absolute;
+    margin-top: 205px;
+    color: #FFFFFF;
+}
+
+.info
+{
+	
+	font-size:18px;
+}
+.letter
+{
+	margin-top: 10px;
+    float: right;
+    margin-left: 4px;
+    color:#FFFFFF;
+    letter-spacing: 1px;
+}
