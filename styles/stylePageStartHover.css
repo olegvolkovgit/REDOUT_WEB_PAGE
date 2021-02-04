@@ -5,6 +5,7 @@
     color:#FFFFFF;
     letter-spacing: 1px;
 }
+
 label:hover{
 	display:block;
 	color: #0000ff; 
@@ -15,4 +16,3 @@ label:hover{
     border:0;
     margin: 5px;
 }
-
